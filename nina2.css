@@ -70,7 +70,7 @@ header h1{
 }
 
 .logo-img {
-    height: 50px;
+    height: 100px;
     width: auto;
     object-fit: contain;
     margin-bottom: 4px;
@@ -677,9 +677,9 @@ footer{
         font-size: 11px;
     }
 
-    .logo-img {
+    /*.logo-img {
         height: 40px;
-    }
+    }*/
 
     .brand-name {
         font-size: 26px;
